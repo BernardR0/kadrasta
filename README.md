@@ -1,0 +1,2 @@
+# kadrasta
+priemiro cod
